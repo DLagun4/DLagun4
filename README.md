@@ -20,8 +20,10 @@
 ---
 
 ## 🌐 Onde me encontrar:
-📧 E-mail: *daniellaguna@edu.unifil.br*    
+📧 E-mail: *daniellaguna@edu.unifil.br* 
 
+## Instagram da STARTUP 🚀
+https://www.instagram.com/belliveryy/
 ---
 
 ✨ *“Transformar ideias em soluções é o primeiro passo para mudar o mundo.”* ✨
