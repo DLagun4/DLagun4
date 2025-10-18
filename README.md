@@ -1,4 +1,8 @@
-# 👋 Olá, eu sou o Daniel Laguna!
+<!-- 🌸 Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=ff9ebd&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Daniel+Laguna+👋;Engenheiro+de+Softwar+student+from+Brazil+🎓;Founder+of+Bellivery+🌸;Let's+build+something+beautiful+together!">
+</p>
+
 
 🎓 Estudante de **Engenharia de Software** na **UNIFIL**  
 💼 Atuo na área de **liderança de equipe**, e sonho em me tornar **Gestor de Projetos**  
