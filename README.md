@@ -1,6 +1,6 @@
 <!-- 🌸 Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=ff9ebd&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Daniel+Laguna+👋; Software+Engineer+student+from+Brazil+🎓;Founder+of+Bellivery+🌸;Let's+build+something+beautiful+together!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=ff9ebd&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Daniel+Laguna+👋;Software+Engineer+student+from+Brazil+🎓;Founder+of+Bellivery+🌸;Let's+build+something+beautiful+together!">
 </p>
 
 
