@@ -17,7 +17,7 @@
 ---
 
 ## 🏀 Um pouco sobre mim:
-- Apaixonado por **basquete**
+- Gosto muito de jogar **basquete**
 - 🎮 Amo **jogar videogame** nas horas vagas
 - Curioso por **inovação, tecnologia e empreendedorismo**
 
